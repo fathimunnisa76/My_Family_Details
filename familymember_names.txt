@@ -1,0 +1,11 @@
+name;relation
+fathima;me
+shahanaz;mom
+saleem;dad
+umar;young bro
+ershad;younger bro
+haseena;mother of mom
+rahman;father of mom
+sameeunnisa;mother of dad
+usman;father of dad
+galib;uncle
